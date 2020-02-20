@@ -1,0 +1,22 @@
+{
+  "name": "potato-git",
+  "version": "1.0.0",
+  "description": "potato",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnerbsantos/potato-git.git"
+  },
+  "keywords": [
+    "potato"
+  ],
+  "author": "wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnerbsantos/potato-git/issues"
+  },
+  "homepage": "https://github.com/wagnerbsantos/potato-git#readme"
+}
